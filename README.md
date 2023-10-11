@@ -1,6 +1,7 @@
 
 - 👋 Hi, this project was created by a group of 3 Computer Science College Students.
 - 👀 DEVELOPED BY PEQ, KF, MFR.
+- Adviser: EJR
 
 
 
