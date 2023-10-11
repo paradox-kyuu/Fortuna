@@ -46,7 +46,7 @@ Fortuna is a holistic mobile app designed to modernize personal finance manageme
 If you are facing any issue with FORTUNA! Report it at https://github.com/paradox-kyuu/Fortuna/issues!
 
 
-# CREATOR
+# Creator
 DEVELOPED by : <br>
 [Paradox-Kyuu](https://github.com/paradox-kyuu/) <br>
 [mairaRosales](https://github.com/mairaRosales/) <br>
