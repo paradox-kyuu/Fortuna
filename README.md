@@ -1,7 +1,7 @@
 
 - 👋 Hi, this project was created by a group of 3 Computer Science College Students.
 - 👀 DEVELOPED BY PEQ, KF, MFR.
-- Adviser: EJR
+- Prof: EJR
 
 
 
@@ -47,8 +47,8 @@ Fortuna is a holistic mobile app designed to modernize personal finance manageme
 If you are facing any issue with FORTUNA! Report it at https://github.com/paradox-kyuu/Fortuna/issues!
 
 
-# Creator
-DEVELOPED by : <br>
+# Developers
+Developed by : <br>
 [Paradox-Kyuu](https://github.com/paradox-kyuu/) <br>
 [mairaRosales](https://github.com/mairaRosales/) <br>
 [kaishenpaii](https://github.com/kaishenpaii/) <br>
